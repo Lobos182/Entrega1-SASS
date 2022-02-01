@@ -1,0 +1,14 @@
+/* media query header*/
+
+@media screen and (max-width: 299px) {
+    .gran-logo{
+        display: none;
+    }
+    .mini-logo{
+        display: block;    
+        height: 100px;    
+    } 
+    .container{
+        padding-top: 250px;
+    }
+}
